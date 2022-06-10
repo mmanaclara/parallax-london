@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-<a href="https://claraflix.netlify.app/">Acesse a página 🎈</a>
+<a href="https://mmanaclara.github.io/parallax-london/">Acesse a página 🎈</a>
 </p>
 
 ## 💻 Projeto
@@ -27,6 +27,6 @@ Faça o clone do repositório para ter uma versão do projeto em sua máquina:<b
 `$ git clone https://github.com/mmanaclara/parallax-london.git` 
 
 ## 📝 Licença
-Este projeto está licenciado nos termos da licença [MIT](https://github.com/mmanaclara/primeflix/blob/main/MIT%20LICENSE). 
+Este projeto está licenciado nos termos da licença [MIT](https://github.com/mmanaclara/parallax-london/blob/main/LICENSE.md). 
 
 <p align="center"><a href="#topo">⬆</a></p>
